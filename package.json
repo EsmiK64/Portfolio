@@ -1,7 +1,7 @@
 {
-  "name": "new-portfolio",
+  "name": "portfolio",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -19,7 +19,11 @@
     "postcss": "8.4.21",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "styled-components": "^5.3.9",
     "tailwindcss": "3.3.1",
     "typescript": "5.0.4"
+  },
+  "devDependencies": {
+    "@types/styled-components": "^5.1.26"
   }
 }
