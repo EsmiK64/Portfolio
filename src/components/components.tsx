@@ -15,9 +15,12 @@ export const PathContainer = styled.div`
 export const Body = styled.body`
   background: transparent;
   background-color: #eee;
-`
+`;
 
-export default {
+const components = {
   Heading,
   PathContainer,
+  Body,
 };
+
+export default components;

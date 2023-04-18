@@ -1,4 +1,4 @@
-import style from '../components/components';
+import style from "../components/components";
 import Image from "next/image";
 import Head from "next/head";
 
@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>EsmiK's portfolio</title>
+        <title>EsmiKs portfolio</title>
       </Head>
       <style.Heading>Hello World</style.Heading>
       <style.PathContainer>
