@@ -13,7 +13,7 @@ export const PathContainer = styled.div`
 `;
 
 export const Body = styled.body`
-  background: transparent;
+  background: transparent!important;
   background-color: #eee;
 `;
 
