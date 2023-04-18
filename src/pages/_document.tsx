@@ -4,9 +4,7 @@ import { Body } from '../components/components'
 export default function Document() {
   return (
     <Html lang="en">
-      <Head>
-        <title>EsmiK's portfolio</title>
-      </Head>
+      <Head />
       <body>
         <Main />
         <NextScript />
